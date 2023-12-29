@@ -165,3 +165,13 @@
 2023-12-29 20:08:00,436 INFO page.MainPage [main] Main page is opened
 2023-12-29 20:08:02,504 INFO page.MainPage [main] Puzzles Page is opened
 2023-12-29 20:08:03,010 INFO test.CommonConditions [main] Test completed
+2023-12-29 20:14:20,104 INFO page.MainPage [main] Main page is opened
+2023-12-29 20:14:26,393 INFO page.MainPage [main] News is opened
+2023-12-29 20:14:26,422 INFO page.ChessNewsPage [main] News concrete page is opened
+2023-12-29 20:14:28,402 INFO test.CommonConditions [main] Test completed
+2023-12-29 20:14:42,177 INFO page.MainPage [main] Main page is opened
+2023-12-29 20:14:43,818 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-29 20:14:44,499 INFO test.CommonConditions [main] Test completed
+2023-12-29 20:31:04,619 INFO page.MainPage [main] Main page is opened
+2023-12-29 20:31:11,220 INFO page.MainPage [main] News is opened
+2023-12-29 20:31:11,641 INFO test.CommonConditions [main] Test completed

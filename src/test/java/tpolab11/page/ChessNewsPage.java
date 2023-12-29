@@ -20,4 +20,8 @@ public class ChessNewsPage extends BasePage{
         buttonNews.click();
         return new NewsPage(driver);
     }
+
+    public String getUrl() throws InterruptedException {
+        return driver.getCurrentUrl();
+    }
 }
