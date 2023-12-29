@@ -158,3 +158,10 @@
 2023-12-23 10:23:22,631 INFO page.MainPage [main] Main page is opened
 2023-12-23 10:23:25,477 INFO page.MainPage [main] Learn page is opened
 2023-12-23 10:23:27,216 INFO test.CommonConditions [main] Test completed
+2023-12-29 20:06:40,934 INFO page.MainPage [main] Main page is opened
+2023-12-29 20:06:42,678 INFO page.MainPage [main] Puzzles Page is opened
+2023-12-29 20:06:42,836 INFO util.TestListener [main] Test failed: isTestFound
+2023-12-29 20:06:43,571 INFO test.CommonConditions [main] Test completed
+2023-12-29 20:08:00,436 INFO page.MainPage [main] Main page is opened
+2023-12-29 20:08:02,504 INFO page.MainPage [main] Puzzles Page is opened
+2023-12-29 20:08:03,010 INFO test.CommonConditions [main] Test completed

@@ -8,11 +8,11 @@ import static org.hamcrest.MatcherAssert.assertThat;
 public class GetHintTest extends CommonConditions {
     @Test
     public void isTestFound() throws InterruptedException {
-        Boolean test = new MainPage(driver)
+        String test = new MainPage(driver)
                 .open()
                 .openPuzzles()
-                .HintTest();
-        Assert.assertEquals(test, true);
-        assertThat("Test is found", test.equals(true));
+                .getUrl();
+        Assert.assertEquals("https://www.chess.com/puzzles/rated", test);
+        assertThat("Url matched", test.equals("https://www.chess.com/puzzles/rated"));
     }
 }
